@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Home",
+  "titleTemplate": "| CryptoSky Platform",
+  "welcomeText": "# Welcome to CryptoSky Platform.\n\nbuilds relationships, increase brand loyalty, and make more sales and engages in wide-ranging, multi-channel campaigns, leveraging social platforms to reach our client’s audience.\n\n\n\n\n\nLet's go with us",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Sky Blog",
+  "seoDescription": "A quickstart for CryptoSky Blog",
   "seoMetaImage": ""
 }
